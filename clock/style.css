@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: black; */
+    position: relative;
+}
+#value{
+    background-color: whitesmoke;
+    
+     width: 900px; 
+     margin: 200px 550px;
+   
+    align-items: center; 
+    text-align: center;
+    font-size: 170px;
+    font-weight: bold;
+    border: 5px solid black;
+    border-radius: 20px;
+
+    
+}
